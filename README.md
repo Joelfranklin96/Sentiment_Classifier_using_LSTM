@@ -1,1 +1,1 @@
-# Sentiment_Classifier_using_LSTM
+# Sentiment Classifier using LSTM
