@@ -31,7 +31,6 @@ This project focuses on building two versions of a sentiment classifier, Emojifi
 ## Key Takeaways
 - Sequence padding is crucial for mini-batch processing in LSTM networks.
 - Pre-trained word embeddings can be fine-tuned to adapt to specific tasks.
-- LSTM's `return_sequences` parameter is essential for determining the output shape.
 - Dropout is a simple yet effective regularization technique for LSTMs.
 
 ## How to Run
